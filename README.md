@@ -1,2 +1,2 @@
 # chatterbox-api
-we have conversations all day with different people. one on one and in groups. move between them on your phone as seamlessly as you do in real life.
+API built with django rest framework that serves user account info and room configs to the client device. 
